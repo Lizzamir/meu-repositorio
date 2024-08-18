@@ -1,0 +1,36 @@
+jConsidere o arquivo anexo, monte um plano de treino noturno para uma mulher que deseja perder 20kg de acordo com as variáveis informadas no arquivo.
+
+prompt-v1.md
+
+Olá! Com base nas informações fornecidas no arquivo, vou propor um plano de treino noturno para a pessoa em questão.
+
+Biotipo: Mesomorfo
+Dias de treino: 1 dia
+Exercícios: Cardio
+
+Considerando que a pessoa é uma mulher mesomorfa que deseja perder 20kg, um plano de treino noturno ideal seria:
+
+Treino Full Body (1 dia por semana):
+
+1. Aquecimento (5-10 minutos):
+   - Caminhada rápida ou exercícios leves de mobilidade
+
+2. Exercícios Cardiovasculares (30-40 minutos):
+   - Corrida ou caminhada rápida em esteira
+   - Bicicleta ergométrica
+   - Elíptico
+
+3. Exercícios de Força (20-30 minutos):
+   - Agachamentos
+   - Supino com halteres
+   - Remada com halteres
+   - Elevação lateral de ombros
+   - Abdominais
+
+4. Exercícios de Equilíbrio e Flexibilidade (10-15 minutos):
+   - Exercícios de equilíbrio (como em uma perna só)
+   - Alongamentos para os principais grupos musculares
+
+Esse treino noturno focado em cardio e exercícios de força para o corpo todo, aliado a uma dieta equilibrada, deve ajudar a pessoa a atingir seu objetivo de perder 20kg. É importante lembrar de sempre consultar um profissional de saúde antes de iniciar qualquer programa de exercícios.
+
+Espero que este plano de treino seja útil! Fique à vontade para me perguntar qualquer outra dúvida.
